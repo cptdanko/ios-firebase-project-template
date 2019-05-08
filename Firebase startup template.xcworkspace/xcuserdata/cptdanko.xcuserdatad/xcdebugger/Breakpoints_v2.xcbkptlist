@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase startup template/ViewController.swift"
+            timestampString = "579047656.7908829"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "login(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase startup template/ViewController.swift"
+            timestampString = "579047656.790992"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "share(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase startup template/ViewController.swift"
+            timestampString = "579047656.79105"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "share(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase startup template/ViewController.swift"
+            timestampString = "579047656.791104"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "swiped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Firebase startup template/ViewController.swift"
+            timestampString = "579047656.7911561"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "swiped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Firebase_startup_template.ViewController.swiped(__C.UISwipeGestureRecognizer) -&gt; ()"
+                  moduleName = "Firebase startup template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cptdanko/workspace/iOS/OpenSource/Firebase%20startup%20template/Firebase%20startup%20template/ViewController.swift"
+                  timestampString = "579047334.279935"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Firebase_startup_template.ViewController.swiped(__C.UISwipeGestureRecognizer) -&gt; ()"
+                  moduleName = "Firebase startup template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cptdanko/workspace/iOS/OpenSource/Firebase%20startup%20template/Firebase%20startup%20template/ViewController.swift"
+                  timestampString = "579047334.281601"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Firebase_startup_template.ViewController.swiped(__C.UISwipeGestureRecognizer) -&gt; ()"
+                  moduleName = "Firebase startup template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cptdanko/workspace/iOS/OpenSource/Firebase%20startup%20template/Firebase%20startup%20template/ViewController.swift"
+                  timestampString = "579047334.2832921"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Firebase_startup_template.ViewController.swiped(__C.UISwipeGestureRecognizer) -&gt; ()"
+                  moduleName = "Firebase startup template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cptdanko/workspace/iOS/OpenSource/Firebase%20startup%20template/Firebase%20startup%20template/ViewController.swift"
+                  timestampString = "579047334.284925"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Firebase_startup_template.ViewController.swiped(__C.UISwipeGestureRecognizer) -&gt; ()"
+                  moduleName = "Firebase startup template"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cptdanko/workspace/iOS/OpenSource/Firebase%20startup%20template/Firebase%20startup%20template/ViewController.swift"
+                  timestampString = "579047334.286515"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1440">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
